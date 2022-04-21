@@ -1,5 +1,5 @@
 # GUARD: Graph Universal Adversarial Defense
-![demo](./figs/demo.jpg)
+
 <p align="center"> <img src="./figs/demo.jpg" /> <p align="center"><em>Fig. 1. An illustrative example of graph universal defense. The universal patch p can be applied to an arbitrary node (here v1) to protect it from adversarial targeted attacks by removing adversarial edges (if exist).</em></p>
 
 # Requirements
