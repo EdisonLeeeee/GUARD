@@ -6,13 +6,16 @@ PyTorch implementation of the paper "GUARD: Graph Universal Adversarial Defense"
 
 # Requirements
 + torch==1.9
-+ dgl==0.7.0
-+ graphwar
+- ogb == 1.3.3
+- torch_sparse == 0.6.10
+- torch_cluster == 1.5.9
+- torch_geometric == 2.0.4
++ greatx
 
-Install [graphwar](https://github.com/EdisonLeeeee/GraphWar):
+Install [greatx](https://github.com/EdisonLeeeee/GreatX):
 ```bash
-git clone https://github.com/EdisonLeeeee/GraphWar.git && cd GraphWar
-pip install .
+git clone https://github.com/EdisonLeeeee/GreatX.git && cd GreatX
+pip install -e .
 ```
 
 # Quick Start
